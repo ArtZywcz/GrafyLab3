@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Grafy3": {
+      "commandName": "Project",
+      "commandLineArgs": "graph.dot"
+    }
+  }
+}
